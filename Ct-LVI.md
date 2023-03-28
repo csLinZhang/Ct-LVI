@@ -1,6 +1,6 @@
 ### Ct-LVI: A Framework Towards Continuous-time Laser-Visual-Inertial Odometry and Mapping
 
-Zhong Wang<sup>1</sup>, Lin Zhang<sup>1</sup>, Ying Shen<sup>1</sup>, Shengjie Zhao<sup>1</sup>, and Yicong Zhou<sup>2</sup>
+Zhong Wang<sup>1</sup>, Lin Zhang<sup>1</sup>, Shengjie Zhao<sup>1</sup>, and Yicong Zhou<sup>2</sup>
 
 <sup>1</sup>School of Software Engineering, Tongji University, Shanghai, China
 
@@ -16,7 +16,7 @@ Zhong Wang<sup>1</sup>, Lin Zhang<sup>1</sup>, Ying Shen<sup>1</sup>, Shengjie Z
 
 #### Source Codes
 
-[Ct-LVI Codes](https://gitee.com/csZhongWang/ct-lvio)
+[Ct-LVI Codes](code.zip)
 
 #### Demo Video
 
